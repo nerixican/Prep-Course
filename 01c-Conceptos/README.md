@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=conceptos-Expressions-vs-Statements">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Mucha información por aprender pero bien explicado, espero continuar así con las siguientes clases.
       </a>
     </td>
   </tr>
